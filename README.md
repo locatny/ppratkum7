@@ -4,7 +4,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|Raadityatama Nugraha|312310644|TI.23.A6|Basis Data|
+|Hannifa Indah Rahayu|312310653|TI.23.A6|Basis Data|
 # Soal Latihan Praktikum
 ## Data Model Mapping
 
